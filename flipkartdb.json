@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "ipnone",
+      "brand": "apple",
+      "price": "150000",
+      "description": "Apple iphone",
+      "thumbnail": "https://boruto.store/wp-content/uploads/2022/06/product-image-1593399856-300x300.png",
+      "id": 1
+    },
+    {
+      "productId": "2",
+      "title": "doraemon phone case",
+      "brand": "cartoon",
+      "price": "2000000",
+      "description": "it is blue",
+      "thumbnail": "https://i.etsystatic.com/42839052/r/il/0f843f/5002704292/il_300x300.5002704292_79oh.jpg",
+      "id": 2
+    }
+  ]
+}
